@@ -1,6 +1,10 @@
 # Development Principles
 
-A bounded set of principles for the general development of processes (software-related and beyond).
+A bounded set of principles for the general development of processes (software-related and beyond):
+
++ [Arbitrary, but consistent.](the-1st-Development-Principle)
++ [Slow, but constant.](the-2nd-Development-Principle)
++ [Imperfect, but cooperative.](the-3rd-Development-Principle)
 
 
 ## Introduction
