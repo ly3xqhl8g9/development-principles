@@ -1,6 +1,6 @@
 # Development Principles
 
-A bounded-set of principles for the general development of processes (software-related and beyond).
+A bounded set of principles for the general development of processes (software-related and beyond).
 
 
 ## Introduction
