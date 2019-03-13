@@ -18,7 +18,7 @@ These development principles are developed having in the back of the mind the so
 
 <b>Arbitrary, but consistent.</b>
 
-Consistent arbitrariness is the foundation of the most sharp tool humanity has ever devised, language itself. Why these certain graphemes are linked to those certain phonemes and this certain assemblage points towards that certain concept or object? Because we have arbitrarily chosen so. However, it is the long-term consistency (sometimes for millennia within the same frame of entanglement of words, things, and thoughts) which allows our extended communities to develop the making of fire into the making of computers.
+Consistent arbitrariness is the foundation of the most sharp tool humanity has ever devised, language itself. Why these certain graphemes are linked to those certain phonemes and this certain assemblage points towards that certain concept or object? Because we have arbitrarily chosen so. However, it is the long-term consistency (sometimes for millennia within the same frame of entanglement of words, things, and thoughts) which allows our extended communities to develop the making of fire into the making of machines.
 
 
 ## the 2nd Development Principle
@@ -39,7 +39,7 @@ The disablement of the superficial indicates the soon to come disappearance of t
 
 <b>Destroy, but calmly.</b>
 
-Some of the systems are in such a state that one cannot even say that they need rethinking, that would imply thinking was involved in their conception. For such systems destruction is the only possible way for evolution. However, one should not be too hot-headed when engaging onto the path of destruction, should not fall prey to the pleasures of dismantling. Being able to achieve a state of calmness when worlds fall apart is the measure, to some extent, of wisdom.
+Some of the systems are in such a state that one cannot even say that they need rethinking, that would imply thinking was involved in their conception. For such systems destruction is the only possible way for evolution. However, one should not be too hot-headed when engaging onto the path of destruction, one should not fall prey to the pleasures of dismantling. Being able to achieve a state of calmness when worlds fall apart is the measure, to some extent, of wisdom.
 
 
 ## the 5th Development Principle
