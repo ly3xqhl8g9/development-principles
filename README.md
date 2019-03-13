@@ -5,6 +5,7 @@ A bounded set of principles for the general development of processes (software-r
 + [Arbitrary, but consistent.](#the-1st-Development-Principle)
 + [Slow, but constant.](#the-2nd-Development-Principle)
 + [Imperfect, but cooperative.](#the-3rd-Development-Principle)
++ [Destroy, but calmly.](#the-4th-Development-Principle)
 
 
 ## Introduction
@@ -31,3 +32,10 @@ The speed of light is the fastest a particle-wave could possibly move. It might 
 <b>Imperfect, but cooperative.</b>
 
 The disablement of the superficial indicates the soon to come disappearance of the essence. The death of natural is only followed by the fall of the artificial. No matter how imperfect a living system is, because it is live, if no other better system exists, then it must be always kept alive. The system should always respond to user input, striving for the best response, but more importantly, always cooperating with the user's interests.
+
+
+## the 4th Development Principle
+
+<b>Destruction, but calm.</b>
+
+Some of the systems are in such a state that one cannot even say that they need rethinking, that would imply thinking was involved in their conception. For such systems destruction is the only possible way for evolution. However, one should not be too hot-headed when engaging onto the path of destruction, should not fall prey to the pleasures of dismantling. Being able to achieve a state of calmness when worlds fall apart is the measure, to some extent, of wisdom.
