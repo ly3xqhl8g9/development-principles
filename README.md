@@ -5,7 +5,7 @@ A bounded set of principles for the general development of processes (software-r
 + [Arbitrary, but consistent.](#the-1st-Development-Principle)
 + [Slow, but constant.](#the-2nd-Development-Principle)
 + [Imperfect, but cooperative.](#the-3rd-Development-Principle)
-+ [Destruction, but calm.](#the-4th-Development-Principle)
++ [Destroy, but calmly.](#the-4th-Development-Principle)
 
 
 ## Introduction
@@ -36,6 +36,6 @@ The disablement of the superficial indicates the soon to come disappearance of t
 
 ## the 4th Development Principle
 
-<b>Destruction, but calm.</b>
+<b>Destroy, but calmly.</b>
 
 Some of the systems are in such a state that one cannot even say that they need rethinking, that would imply thinking was involved in their conception. For such systems destruction is the only possible way for evolution. However, one should not be too hot-headed when engaging onto the path of destruction, should not fall prey to the pleasures of dismantling. Being able to achieve a state of calmness when worlds fall apart is the measure, to some extent, of wisdom.
