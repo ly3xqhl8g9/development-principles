@@ -18,7 +18,7 @@ These development principles are developed having in the back of the mind the so
 
 <b>Arbitrary, but consistent.</b>
 
-Consistent arbitrariness is the foundation of the most sharp tool humanity has ever devised, language itself. Why these certain graphemes are linked to those certain phonemes and this certain assemblage points towards that certain concept or object? Because we have arbitrarily chosen so. However, it is the long-term consistency (sometimes for millennia within the same frame of entanglement of words, things, and thoughts) which allows our extended communities to develop the making of fire into the making of machines.
+Consistent arbitrariness is the foundation of the most sharp tool humanity has ever devised, language itself. Why these certain graphemes are linked to those certain phonemes and this certain assemblage points towards that certain concept or object? Because we have arbitrarily, willing consciously, but mostly not, chosen so. However, it is the long-term consistency (sometimes for millennia within the same frame of entanglement of words, things, and thoughts) which allows our extended communities to develop the making of fire into the generation of machines.
 
 
 ## the 2nd Development Principle
