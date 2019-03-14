@@ -4,6 +4,7 @@ A bounded set of principles for the general development of processes and systems
 
 + [Arbitrary, but Consistent](#arbitrary-but-consistent)
 + [Slow, but Constant](#slow-but-constant)
++ [Sinuous, but Cert](#sinuous-but-cert)
 + [Imperfect, but Cooperative](#imperfect-but-cooperative)
 + [Destroy, but Calmly](#destroy-but-calmly)
 + [Untrustful, but Coordinated](#untrustful-but-coordinated)
@@ -22,6 +23,11 @@ Consistent arbitrariness is the foundation of the most sharp tool humanity has e
 ## Slow, but Constant
 
 The speed of light is the fastest a particle-wave could possibly move. It might very well be an absolute limit. We discovered that the universe is so grand that this awe-filling speed could just as well be closer to nothing, because at the scale of the universe it needs millions and billions of human years to achieve meaningful displacement. However, regardless the speed of movement and the time required, the fact that the movement always exists, that there is always progress, a forward succeeding another forward, this is the important fact. If development is the target, one can afford to go slow towards it if constant progress is achieved, and sometimes slowness should be encouraged where the hastiness of today might hinder the progress of trans-tomorrow (the day after the day after tomorrow).
+
+
+## Sinuous, but Cert
+
+
 
 
 ## Imperfect, but Cooperative
