@@ -41,4 +41,4 @@ Services should not rely on each other, but they should optimistically await a r
 
 ## Apologies
 
-Any kind of formalism or formalization stands as a mock for reality. And yet we attend to formality for convenience and even joy: it is playful to lay down rules. Started as a simple game, this text has found itself two rules: the structure of the principles will be `X, but Y`, where Y starts with the letter `C`, while all the X words shall form the one and only actual principle for development: `ASSIDUOUS`.
+Any kind of formalism or formalization stands as a mock for reality. And yet we attend to formality for convenience and even joy: it is playful to lay down rules. Started as a simple game, this text has found itself two rules: the structure of the principles will be `X, but Y`, where `Y` starts with the letter `C`, while all the `X`'es shall form the one and only actual principle for development: `ASSIDUOUS`.
