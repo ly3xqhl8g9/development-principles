@@ -8,6 +8,9 @@ A bounded set of principles for the general development of processes and systems
 + [Imperfect, but Cooperative](#imperfect-but-cooperative)
 + [Destroy, but Calmly](#destroy-but-calmly)
 + [Untrustful, but Coordinated](#untrustful-but-coordinated)
++ [O, but C](#o-but-c)
++ [Universal, but Constrained](#universal-but-constrained)
++ [S, but C](#s-but-c)
 
 
 ## Introduction
@@ -43,6 +46,21 @@ Some of the systems are in such a state that one cannot even say that they need 
 ## Untrustful, but Coordinated
 
 Services should not rely on each other, but they should optimistically await a response and optimistically reply.
+
+
+## O, but C
+
+
+
+
+## Universal, but Constrained
+
+
+
+
+## S, but C
+
+
 
 
 ## Apologies
