@@ -27,7 +27,7 @@ The speed of light is the fastest a particle-wave could possibly move. It might 
 
 ## Sinuous, but Cert
 
-
+Trial and error against the benckmark of reality (controlled or not) is the single tool one needs for learning. Be it a child learning to walk, falling and stumbling again and again, or a gene pool making infinitesimal leaps from generation to generation. The straight line might not only be longer, on a non-Euclidean surface, but it might also take one's journey through less trials and errors, therefore less learning, and hence less prepared when the chips will be down. No matter how sinuous the path, one must be certain of one's learning.
 
 
 ## Imperfect, but Cooperative
@@ -47,4 +47,4 @@ Services should not rely on each other, but they should optimistically await a r
 
 ## Apologies
 
-Any kind of formalism or formalization stands as a mock for reality. And yet we attend to formality for convenience and even joy: it is playful to lay down rules. Started as a simple game, this text has found itself two rules: the structure of the principles will be `X, but Y`, where `Y` starts with the letter `C`, while all the `X`'es shall form the one and only actual principle for development: `ASSIDUOUS`.
+Any kind of formalism or formalization stands as a mock for reality. And yet we attend to formality for convenience and even joy: it is playful to lay down rules. Started as a simple game, this text has found itself two rules: the structure of the principles will be `X, but Y`, where `Y` starts with the letter `C`, while all the `X`'es shall form the one and only actual principle/core-state of motion for development: `ASSIDUOUS`.
