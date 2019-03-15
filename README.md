@@ -27,12 +27,12 @@ The speed of light is the fastest a particle-wave could possibly move. It might 
 
 ## Sinuous, but Cert
 
-Trial and error against the benckmark of reality (controlled or not) is the single tool one needs for learning. Be it a child learning to walk, falling and stumbling again and again, or a gene pool making infinitesimal leaps from generation to generation. The straight line might not only be longer, on a non-Euclidean surface, but it might also take one's journey through less trials and errors, therefore less learning, and hence less prepared when the chips will be down. No matter how sinuous the path, one must be certain of one's learning.
+Trial and error against the benckmark of reality (controlled or not) is the single tool one needs for learning. Be it a child learning to walk, falling and stumbling again and again, or a gene pool making infinitesimal leaps from generation to generation. The straight line might not only be longer, on a non-Euclidean surface, but it might also take one's journey through less trials and errors, therefore less learning, and hence less readiness when the chips will be down. No matter how sinuous the path, one must be certain of one's learning.
 
 
 ## Imperfect, but Cooperative
 
-The disablement of the superficial indicates the soon to come disappearance of the essence. The death of natural is only followed by the fall of the artificial. No matter how imperfect a living system is, because it is live, if no other better system exists, then it must be always kept alive. The system should always respond to user input, striving for the best response, but more importantly, always cooperating with the user's interests.
+The disablement of the superficial indicates the soon to come disappearance of the essence. The death of the natural is only followed by the fall of the artificial. No matter how imperfect a living system is, because it is live, if no other better system exists, then it must be always kept alive. The system should always respond to user input, striving for the best response, but more importantly, always cooperating with the user's interests.
 
 
 ## Destroy, but Calmly
