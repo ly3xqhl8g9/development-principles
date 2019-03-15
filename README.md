@@ -8,9 +8,9 @@ A bounded set of principles for the general development of processes and systems
 + [Imperfect, but Cooperative](#imperfect-but-cooperative)
 + [Destroy, but Calmly](#destroy-but-calmly)
 + [Untrustful, but Coordinated](#untrustful-but-coordinated)
-+ [O, but C](#o-but-c)
++ [Orderly, but Casteless](#orderly-but-casteless)
 + [Universal, but Constrained](#universal-but-constrained)
-+ [S, but C](#s-but-c)
++ [Surgical, but Compassionate](#surgical-but-compassionate)
 
 
 ## Introduction
@@ -48,7 +48,7 @@ Some of the systems are in such a state that one cannot even say that they need 
 Services should not rely on each other, but they should optimistically await a response and optimistically reply.
 
 
-## O, but C
+## Orderly, but Casteless
 
 
 
@@ -58,7 +58,7 @@ Services should not rely on each other, but they should optimistically await a r
 
 
 
-## S, but C
+## Surgical, but Compassionate
 
 
 
