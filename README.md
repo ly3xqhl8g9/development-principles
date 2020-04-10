@@ -50,17 +50,18 @@ Services should not rely on each other, but they should optimistically await a r
 
 ## Orderly, but Casteless
 
-
+Structure imposes hierarchy, the issues arrive when the hierarchy imposes control beyond the functional definitions the structure requires to maintain it's utility. Therefore, a system should strive for orderness, while having a loose dynamical equilibrium of the what which constitutes the order, remaining essential a system without any kind of castes.
 
 
 ## Universal, but Constrained
 
+A universal adapter grows in the total utility when it's possibilities are limited to a certain domain.
 
 
 
 ## Surgical, but Compassionate
 
-
+One should mercilessly remove functions within the system, even the ones from the public interface, yet doing so must be done with consideration for both the legacy and the future.
 
 
 ## Apologies
