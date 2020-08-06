@@ -50,7 +50,7 @@ Services should not rely on each other, but they should optimistically await a r
 
 ## Orderly, but Casteless
 
-Structure imposes hierarchy, the issues arrive when the hierarchy imposes control beyond the functional definitions the structure requires to maintain it's utility. Therefore, a system should strive for orderness, while having a loose dynamical equilibrium of the what which constitutes the order, remaining essential a system without any kind of castes.
+Structure imposes hierarchy, the issues arrive when the hierarchy imposes control beyond the functional definitions the structure requires to maintain it's utility. Therefore, a system should strive for orderness, while having a loose dynamical equilibrium of the what which constitutes the order, remaining essentially a system without any kind of castes.
 
 
 ## Universal, but Constrained
